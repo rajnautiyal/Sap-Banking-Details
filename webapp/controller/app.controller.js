@@ -25,8 +25,6 @@ sap.ui.define([
 
                     });
             },
-
-
             onCloseBankDetail: function () {
                 this.byId("moreBankDetails").close();
             }
